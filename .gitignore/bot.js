@@ -33,6 +33,11 @@ prt = (txt)=>{
         prt("```C\n" + txt + "\n```" )
         break
 
+        case "test":
+        prt("je fonctionne !! yeah !" )
+        break
+
+
     }
 
 }
